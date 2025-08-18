@@ -1,0 +1,26 @@
+
+.card{
+    background-color:#C2B280;
+    width: 350px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.card img{
+    width: 340px;
+    border-radius: 5px;
+}
+
+.div-img-card{
+    text-align: center;
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
+
+.card button{
+    background-color: beige;
+    border-radius: 5px;
+}
