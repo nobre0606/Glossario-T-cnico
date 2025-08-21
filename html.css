@@ -23,6 +23,17 @@ header{
     
 }
 
+.container{
+    background-color: rgb(236, 236, 236);
+    width: 70%;
+    height: fit-content;
+    margin-left: 5%;
+    align-items: center;
+    padding: 25px;
+    border-radius: 8px;
+    justify-self: left;
+}
+
 .titulo-img{
     display: flex;
     justify-content: center;
@@ -50,7 +61,7 @@ header{
 
 .item{
     width: 900px;
-    background-color: #c6c6c6;
+    background-color:    rgb(221, 221, 221) ;
     border-radius: 8px;
     margin-bottom: 10px;
     padding:5px;
