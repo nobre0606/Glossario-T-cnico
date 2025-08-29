@@ -135,5 +135,12 @@ a{
 footer{
     border-top:  1px solid #ccc;
     padding: 10px;
+    align-self: flex-end;
+    margin-top: 290px;
+    border-top: 1px solid rgb(167, 167, 167);
+}
+
+h2{
+    justify-self: center;
 }
 

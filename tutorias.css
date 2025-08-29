@@ -177,6 +177,53 @@ header{
     display: flex;
 }
 
+.coluna-css-nav{
+    width: fit-content;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight:bold;
+    margin: 5px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.coluna-css-nav img{
+    align-self: flex-start;
+}
+
+
+.item-css-nav{
+    width: 900px;
+    background-color: rgb(236, 236, 236);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding:5px;
+    height: fit-content;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 500px;
+    font-style: normal;
+    box-shadow:  white;
+}
+
+.img-css-nav{
+    width: fit-content !important;
+    height: fit-content !important;
+    border-radius: 8px;
+}
+
+.img-css-nav img{
+    border-radius: 8px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.grupo-img-nav{
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 8px;
+}
+
 .div-botao{
     width: fit-content;
     height: fit-content;
@@ -251,4 +298,12 @@ a{
     width: 20px;
     margin: 0;
     padding: 0;
+}
+
+footer{
+    border-top:  1px solid #ccc;
+    padding: 10px;
+    align-self: flex-end;
+    margin: 0;
+    border-top: 1px solid rgb(167, 167, 167);
 }
